@@ -1,0 +1,79 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Failed to watch '/home/sebastian/docs/programacion-avanzada/ReactTicTacToe/.git', reverting to legacy API file watched. Some events might be lost.
+Error: ENOSPC: System limit for number of file watchers reached, watch '/home/sebastian/docs/programacion-avanzada/ReactTicTacToe/.git'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at new T (/usr/share/code/resources/app/extensions/git/dist/main.js:1:83365)
+	at new e (/usr/share/code/resources/app/extensions/git/dist/main.js:1:85468)
+	at e.openRepository (/usr/share/code/resources/app/extensions/git/dist/main.js:1:596213)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+	at async n (/usr/share/code/resources/app/extensions/git/dist/main.js:1:25325)
+Open repository: /home/sebastian/docs/programacion-avanzada/ReactTicTacToe
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/App.test.tsx
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/App.test.tsx
+> git cat-file -s e0f09ab57a46b8481522c5b6fe1f98f532dd3f3d
+> git show :src/App.tsx
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/App.tsx
+> git cat-file -s 85716a2e4bff661da971f56d8d2ef809f7399694
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/index.css
+> git cat-file -s b4cc7250b98cb3f1a2dd5bec134296c6942344d9
+> git show :src/App.tsx
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/App.tsx
+> git cat-file -s 85716a2e4bff661da971f56d8d2ef809f7399694
+> git show :src/App.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/App.css
+> git cat-file -s e8b7afc028485969fec979b84493ddc636e8250a
+> git show :src/App.tsx
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/App.tsx
+> git cat-file -s 85716a2e4bff661da971f56d8d2ef809f7399694
+> git show :src/GameControls.tsx
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/GameControls.tsx
+> git cat-file -s a1cf8da9e4d1a06378f80d2c22b40ad96da3d155
+> git show :src/App.tsx
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/App.tsx
+> git cat-file -s 85716a2e4bff661da971f56d8d2ef809f7399694
+> git show :src/Functions.ts
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/Functions.ts
+> git cat-file -s d4ad6cd9dd9bb4bcd14cfb7f973643b67105feef
+> git show :images.d.ts
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/images.d.ts
+> git cat-file -s 397cc9b35b1c968c58e406a3dd3c302d8f1e07b0
+> git show :src/App.tsx
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/App.tsx
+> git cat-file -s 85716a2e4bff661da971f56d8d2ef809f7399694
+> git show :src/App.test.tsx
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/App.test.tsx
+> git cat-file -s e0f09ab57a46b8481522c5b6fe1f98f532dd3f3d
+> git show :src/App.tsx
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/App.tsx
+> git cat-file -s 85716a2e4bff661da971f56d8d2ef809f7399694
+> git show :src/Board.tsx
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/Board.tsx
+> git cat-file -s 8c7c9f14cd981595b0a7394b19b00f757e6bf951
+> git show :src/App.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/App.css
+> git cat-file -s e8b7afc028485969fec979b84493ddc636e8250a
+> git show :src/Board.tsx
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/Board.tsx
+> git cat-file -s 8c7c9f14cd981595b0a7394b19b00f757e6bf951
+> git show :src/App.tsx
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/App.tsx
+> git cat-file -s 85716a2e4bff661da971f56d8d2ef809f7399694
+> git show :src/Board.tsx
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/ReactTicTacToe/src/Board.tsx
+> git cat-file -s 8c7c9f14cd981595b0a7394b19b00f757e6bf951

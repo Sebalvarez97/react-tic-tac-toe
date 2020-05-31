@@ -1,0 +1,4 @@
+[2020-05-26 21:13:38.351] [sharedprocess] [info] main {"machineId":"841360edd0606efc2fc700187db2106ca5c0f724ac176b6e53a389b2229dcb7c","windowId":2}
+[2020-05-26 21:13:38.692] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/User/snippets'
+[2020-05-26 21:13:43.258] [sharedprocess] [info] Deleted from disk ms-azuretools.vscode-docker /home/sebastian/.vscode/extensions/ms-azuretools.vscode-docker-1.2.0
+[2020-05-26 21:14:18.370] [sharedprocess] [info] Starting to clean up unused language packs.

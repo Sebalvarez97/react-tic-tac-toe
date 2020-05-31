@@ -1,0 +1,308 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/App.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/App.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/App.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/App.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/App.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/App.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/App.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/App.js
+> git cat-file -s ce9cbd2946d6962cfc19d65c8cb91757d8f4d4c6
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.css
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
+> git show :src/index.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/index.js
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show :src/Tic-tac-toe.js
+> git ls-files --stage -- /home/sebastian/docs/programacion-avanzada/react-tic-tac-toe/src/Tic-tac-toe.js
